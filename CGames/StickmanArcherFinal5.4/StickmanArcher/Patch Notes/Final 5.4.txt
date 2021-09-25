@@ -1,0 +1,9 @@
+Bug Fixes che non interessano a nessuno...
+
+Per i 4 fessi a cui interessa:
+
+-Migliorata l'animazione della camminata.
+
+-Migliorato l'algoritmo della calibrazione automatica degli FPS.(In alcuni computer si
+bugga ancora, sembra perchè i suddetti computer non percepiscano un comando particolare
+che non interessa proprio a nessuno).

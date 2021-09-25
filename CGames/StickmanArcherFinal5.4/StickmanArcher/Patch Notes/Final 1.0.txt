@@ -1,0 +1,3 @@
+Tutto pronto! Fisica, Skills, Nemici e GUI.
+
+Per ora nessun bug.

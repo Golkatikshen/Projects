@@ -1,0 +1,2 @@
+Sottigliezze grafiche... La barra del nemico ora ha un contorno nero perchè così è
+più figo, e la scritta del "tempo trascorso" ora è viola scuro e non più magenta.
