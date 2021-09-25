@@ -1,0 +1,6 @@
+percorso-> C:\Users\Ale\Desktop\Test Musica
+titoli_in_colonna-> 6
+lunghezza_nomi-> 20
+spazio_tra_nomi-> 300
+off_w-> 20
+off_h-> 25
