@@ -1,0 +1,2 @@
+Creato un sisteam automatico di regolazione FPS, così ho tolto tutta la parte
+iniziale che chiedeva quanto era potente il tuo pc.
