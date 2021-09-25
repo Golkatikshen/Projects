@@ -1,0 +1,5 @@
+Se quando avvii il programma ti dà un errore di DLL mancante, leggi quale DLL ti manca,
+vieni qui, copia-incolla la DLL che ti manta e mettila in C://Windows/System32.
+
+Se la DLL che ti manca non c'è qui fammelo presente che la aggiungerò, e te valla a
+cercare su Google.
